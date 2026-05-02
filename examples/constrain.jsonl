@@ -1,0 +1,1 @@
+{"schema":"packet-v3","id":"pkt_ex_constrain_001","semantic_hash":"<sha256>","kind":"constrain","source_scope":"local:project-alpha","target_scope":"remote:project-beta","created_at":"2026-05-02T10:00:00Z","body":"Do not delete untracked files. Add to .gitignore instead.","trace":"strand:<id>"}

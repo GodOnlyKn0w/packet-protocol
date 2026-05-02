@@ -1,0 +1,1 @@
+{"schema":"packet-v3","id":"pkt_ex_status_001","semantic_hash":"<sha256>","kind":"status","source_scope":"remote:project-beta","target_scope":"local:project-alpha","created_at":"2026-05-02T10:00:00Z","body":"Phase 1 complete. Constrain received and applied.","trace":"strand:<id>"}
